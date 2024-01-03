@@ -14,3 +14,15 @@
 image{
     width: 100px;;
 }
+.centar{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 20%;
+    border: 5px solid rgb(113, 113, 214);
+    border-radius: 5px;
+    
+}
+.name{
+    text-align: center;
+}
